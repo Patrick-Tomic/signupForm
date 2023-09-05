@@ -1,0 +1,2 @@
+This project is me testing attributes and inputs for a example form
+Some of the entries may be a bit goofy but its going to use attributes that I may not use on a regular basis, and to have fun while building the project.

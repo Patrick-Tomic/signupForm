@@ -1,0 +1,35 @@
+body, html {
+    border: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.container{
+    display: flex;
+
+    
+}
+#car{
+    width: 40%;
+    height: 100%;
+  
+  
+}
+#form{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+   
+    background:linear-gradient(midnightblue,grey);
+    color: white;
+}
+#porsche{
+    width: 100%;
+    height: 100%;
+    
+}
+#content{
+    display: flex;
+    flex-direction: column;
+}
