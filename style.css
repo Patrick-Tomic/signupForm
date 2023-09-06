@@ -28,6 +28,12 @@ body, html {
   
     
 }
+
+#value{
+    border: 3px midnightblue solid;
+    border-radius: 5px;
+    
+}
 #porsche{
     margin-top: 10em;
     display: flex;
@@ -79,10 +85,17 @@ form{ box-shadow: grey 20px 20px 20px 20px;
     border-radius: 5px;
     height: 3em;
     width: 10em;
-    background-color:dodgerblue;
+    background-color:midnightblue;
+    position: absolute;
+    margin-top: 25em;
     color: white;
 }
 .header{
     display: flex;
     justify-content: center;
+}
+#footer{
+    color:midnightblue;
+    margin-top: 10em;
+    
 }
